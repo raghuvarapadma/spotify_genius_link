@@ -1,3 +1,9 @@
-# spotify_genius_link
+# Spotify Genius Link
 
-### Introduction
+## Introduction
+
+## How it Works
+
+## Important Links
+
+## Future Improvements
