@@ -1,0 +1,76 @@
+'''
+    edit the accented stuff, store it in a big string
+    create a HTTP edge case for it
+    condense the regex and play around with it
+    research chrome extension
+
+
+    make the feat method much more streamlined DONE
+    edit the track name stuff - check for / and take it out if it contains it and test it with different songs (look at
+        cameras by drake) DONE
+    edit http error stuff - check remove stuff (pseudo)
+    edit regex stuff and condense everything (pseudo)
+    edit the special characters, keep or take it out (edit - add in case for http section)
+    research chrome extension
+
+
+    1. add in edit for weird punctuation
+    2. add in request error link for artists
+    3. add in methods to reduce redundancy of code
+    4. figure out () - song in parenthesis
+        - if info in () is not a lot of words, it is usually included
+    5. censored words, maybe have a dictionary it maps to
+    6. listing artists again in () after song title
+
+
+
+    remastered bonus with ()
+    - with featured stuff ab soul
+'''
+
+'''
+        while True:
+            try:
+
+                normal stuff
+
+            except:
+
+                set a variable which determines which one to run
+
+                length of the artists
+                information inside of the parenthesis
+                special characters
+                slash information
+
+                if len of artists is greater than 1:
+                    execute code
+
+                test it (raise response)
+
+                if information inside of parenthesis:
+                    execute code
+
+                test it (raise response)
+
+                if special characters do exists:
+                    execute code
+
+                test it (raise response)
+
+                if slash information do exist:
+                    execute code
+
+                test it (raise response)
+
+                if nothing runs, try running all artists
+                    execute code
+
+                test it (raise response)
+
+            else:
+
+                break
+
+        return html address
+                '''
