@@ -35,6 +35,6 @@ If you want to do your own research, here are some helpful links:
 * Spotify API: https://developer.spotify.com/documentation/web-api/
 * Spoify API (Python Library): https://spotipy.readthedocs.io/en/2.16.0/
 ## Future Improvements
-* Adding in edge cases
+* Adding in further edge cases
 * Some accented characters disrupt link, update remove_accents method
 * Create Chrome Extension to host program
